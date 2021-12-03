@@ -1,0 +1,10 @@
+George_A_Harrison         -Framing_Hammer,Box_of_Nails-       -Nov,13-        -Framing_Hammer x1, Box_of_Nails x2-        -Total:$37.89-    2004
+James_K_Smith             -Box_of_Nails-                      -Nov,1-         -Box_of_Nails x1-                           -Total:$05.95-    2003
+Alma_P_Sanchez            -Flathead_Screwdriver-              -Nov,4-         -Flathead_Screwdriver x1-                   -Total:$13.26-    2002
+Samantha_J_Jones          -Philips_Screwdriver-               -Nov,7-         -Philips_Screwdriver x1-                    -Total:$14.56-    2001
+Paula_Mary_Henry          -Screwdriver_Set-                   -Nov,10-        -Screwdriver_Set x1-                        -Total:$25.97-    2004
+Henry_B_Albertson         -Box_of_Nails-                      -Nov,10-        -Box_of_Nails x15-                          -Total:$89.31-    2005
+Samuel_*_Harrison         -Framing_Hammer-                    -Nov,12-        -Framing_Hammer x2-                         -Total:$51.96-    2002
+Peter_N_Smith             -Adjustable_Wrench,Screwdriver_Set- -Nov,15-        -Adjustable_Wrench x1, Screwdriver_Set x2-  -Total:$67.63-    2003
+James_Edward_Bennett      -Adjustable_Wrench-                 -Nov,12-       -Adjustable_Wrench x1-                       -Total:$15.70-    2005
+Javier_D_Rodriquez        -Screwdriver_set-                   -Nov,3-         -Screwdriver_set x4-                        -Total:$103.88-   2001

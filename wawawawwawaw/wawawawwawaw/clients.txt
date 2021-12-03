@@ -1,0 +1,10 @@
+George_A_Harrison     713-555-1234   g4harrison12@gmail.com     2503_N_Main_Street,_Baytown,_TX       
+James_K_Smith         713-555-1235   jksmith1980@gmail.com      100_Cactus_St,_Baytown,_TX  
+Alma_P_Sanchez        713-554-1237   apsanchez1@gmail.com       3124_Luella_Blvd,_Pasadena,_TX       
+Samantha_J_Jones      713-554-1238   sjjones5@gmail.com         125_Purdue_Ln,_Pasadena,_TX       
+Paula_Mary_Henry      713-553-1239   pmhenry69@gmail.com        412_Colorado_Ave,_League City,_TX       
+Henry_B_Albertson     713-553-2345   hbalbertson80@gmail.com    724_Perkins_Ave,_League_City,_TX           
+Samuel_J_Harrison     713-552-2346   sharrison23@gmail.com      200_Wesley_Ln,_Deer_Park,_TX           
+Peter_N_Smith         713-552-2347   pnsm1th@gmail.com          157_Briarwood_Ct,_Deer_Park,_TX           
+James_Edward_Bennett  713-551-2348   jebennett4@gmail.com       330_S_6th_St,_La_Porte,_TX           
+Javier_D_Rodriquez    713-551-2349   jdr0dr1quez@gmail.com      245_Parkcrest_Dr,_La_Porte,_TX    

@@ -1,0 +1,6 @@
+Name             ID       Adress                          Age Sales Hours Worked Monthly Total $Sales
+Dusterhus,Andrew 2001 123_Shadow_Creek_Ranch,Pearland,_TX 22    2    128                     $109.41
+Freshour,Damien 2002 301_N_Delaney_St,La_Marque,_TX       18    2    140                     $60.25
+Velez,Rey 2003 707_Seacliff_Dr,Houston,_TX                26    2    150                     $67.98
+Buenrrostro,Elliott 2004 10026_Citruswood_Ln,Houston,_TX  23    2    148                     $58.99
+Tissera,Nigel 2005 1912_Tracy_Lynn_Ln,Alvin,_TX           21    2    160                     $97.00
